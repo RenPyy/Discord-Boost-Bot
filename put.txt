@@ -1,0 +1,6 @@
+{
+    "": {
+        "boostedAt": "",
+        "boostFinishAt": ""
+    }
+}
